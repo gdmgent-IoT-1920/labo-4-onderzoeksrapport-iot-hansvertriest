@@ -58,6 +58,9 @@ Nu we weten hoe twee componenten contact leggen, moeten we nog te weten komen ho
 
 # Toepassingen
 
+![NFC_Toepassingen](https://www.inktweb.nl/blog/wp-content/uploads/what-is-nfc.jpg "Toepassingen van NFC")
+
+NFC wordt vandaag de dag vaak gebruikt bij het contactloos betalen. Dit zowel met de smartphone als via een NFC chip in de bankkaarten. Daarnaast is het ook terug te vinden in toegangs- en personeelsbadges, tickets en zelfs business kaartjes. De mogelijkheden van NFC zijn verrijkend. Het biedt een creatieve manier om de ooit statische media nu interactief te maken, zoals het geval bij de smartposter.
 
 # Bronnen
 
