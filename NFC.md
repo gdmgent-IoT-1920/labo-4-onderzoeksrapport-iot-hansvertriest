@@ -40,6 +40,8 @@ Het eerste patent dat betrekking heeft tot de NFC technologie werd vastgelegd in
 
 Aangezien de werking van NFC gebaseerd is op elektromagnetische inductie zullen we dit eerst verder uitleggen. Het woord elektromagnetisch bevat twee delen: elektro van elektriciteit en magnetisch van magnetisme. Deze twee zijn dan ook onvoorwaardelijk met elkaar gepaard. Stel we hebben een koperen spoel, zoals links op de onderstaande afbeelding.
 
+![Elektromagnetisch_Inductie](https://cdn57.androidauthority.net/wp-content/uploads/2013/04/magnetic-fields.png "Elektromagnetisch inductie")
+
  
 
 Wanneer we een potentiaalverschil op de spoel zetten ontstaat er een stroom doorheen de draad. Door het verband tussen elektriciteit en magnetisme resulteert dit in een magnetisch veld dat rond de spoel ontstaat zoals te zien is in de linkse spoel op de afbeelding.
